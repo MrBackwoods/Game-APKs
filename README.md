@@ -4,11 +4,11 @@ Here are some Unity releases I have worked on over the years.
 ### PC
 
 #### Doomsday Room
-A fictional geopolitical game set during a fictional Cold War. I did programming and music for the game./
+A fictional geopolitical game set during a fictional Cold War. I did programming and music for the game.
 https://store.steampowered.com/app/1480740/Doomsday_Room/
 
 #### Tiia-Mari Kolibri's Virtual Art Gallery
-This is a game / art gallery I did with and for visual artist Tiia-Mari Kolibri. The game was released and distributed on physical discs and on the artist's website. The game is not available for public anymore, but the trailer remains./
+This is a game / art gallery I did with and for visual artist Tiia-Mari Kolibri. The game was released and distributed on physical discs and on the artist's website. The game is not available for public anymore, but the trailer remains.
 https://www.youtube.com/watch?v=-EIre-F8PRE
 
 ### Android
