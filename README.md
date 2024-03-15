@@ -4,11 +4,11 @@ Here are some free Android games as APK files that I have made with Unity that n
 Files can be found here: https://drive.google.com/drive/folders/1uinQ9BksUpb9XGgWnQSknWks60QBVf0W?usp=sharing
 
 ## Sauna Like It's 1979
-It's the year 1979 and you have just sold an old sauna cabin you inherited. Before you hand over the keys you however decide to heat up the sauna stove one last time...\
+It's the year 1979 and you have just sold an old sauna cabin you inherited. Before you hand over the keys you however decide to heat up the sauna stove one last time...
 
 ## Wedding Missions
-This game contains fun little missions for wedding guests to complete. \
+This game contains fun little missions for wedding guests to complete.
 
 ## Totaliser
-This game combines endless runner mechanics, math problems, neon retro aesthetics and synthwave. Unlock new driving levels and reach for the ultimate high score on the global leaderboard (server no longer running). \
+This game combines endless runner mechanics, math problems, neon retro aesthetics and synthwave. Unlock new driving levels and reach for the ultimate high score on the global leaderboard (server no longer running).
 
