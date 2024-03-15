@@ -1,5 +1,5 @@
 # Released Unity Projects
-Here is some info about Unity releases I have worked on over the years.
+Below are notable Unity projects I've contributed to over the years.
 
 ## PC
 I have worked on two long-term PC projects. One of these is available on Steam.
