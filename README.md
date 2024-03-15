@@ -1,4 +1,4 @@
-# Released Unity projects
+# Released Unity Projects
 Here are some Unity releases I have worked on over the years.
 
 ### PC
